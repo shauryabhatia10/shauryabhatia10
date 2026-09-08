@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,30&height=220&section=header&text=Shaurya%20Bhatia&fontSize=56&fontAlignY=36&desc=Software%20Engineer%20%7C%20Relational%20Databases%2C%20Systems%20%26%20Applied%20AI&descFontSize=19&descAlignY=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,30&height=220&section=header&text=Shaurya%20Bhatia&fontSize=56&fontAlignY=36&desc=B.Tech%20CSE%20%40%20Bennett%20University%20%7C%20High-Velocity%20Systems%20%26%20AI%20Builder&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/shauryabhatia10"><img src="https://img.shields.io/badge/Focus-Backend_Systems_%7C_Data_Architecture-blue?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus"/></a>
+    <a href="https://www.bennett.edu.in/"><img src="https://img.shields.io/badge/Bennett_University-B.Tech_CSE_%2728-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Bennett University"/></a>
+    <a href="https://github.com/shauryabhatia10"><img src="https://img.shields.io/badge/First_Year_Velocity-Top_1%25_Builder-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="First Year Velocity"/></a>
     <a href="https://github.com/shauryabhatia10?tab=repositories"><img src="https://img.shields.io/badge/Code_Quality-100%25_Verified-success?style=for-the-badge&logo=githubactions&logoColor=white" alt="Verified"/></a>
-    <a href="https://github.com/shauryabhatia10"><img src="https://img.shields.io/badge/Architecture-Clean_%26_Decoupled-orange?style=for-the-badge&logo=archlinux&logoColor=white" alt="Architecture"/></a>
   </p>
 </div>
 
@@ -14,9 +14,11 @@
 
 ### 👨‍💻 Executive Summary
 
-I am a **Software Engineer** specializing in **Python development, relational database engineering (MySQL), data processing pipelines (Pandas & NumPy), and applied algorithmic systems**. My engineering philosophy revolves around **clean architectural separation, computational efficiency, and robust data integrity**.
+Hello! I am **Shaurya Bhatia**, a 1st-semester **Computer Science & Engineering undergraduate at Bennett University**. 
 
-Whether building transactional banking engines with ACID compliance, designing decision-tree heuristic AI games, or architecting responsive cloud applications, I prioritize code that is modular, thoroughly tested, and maintainable.
+While progressing through core computer science curriculum, I believe in **high-velocity hands-on engineering**—transforming theoretical algorithms and database concepts into resilient, production-ready software. My focus lies in **relational database architecture (MySQL), data processing engines (Pandas & NumPy), heuristic artificial intelligence, and decoupled software systems**.
+
+> *"The best way to master computer science is to build relentlessly from day one."*
 
 ---
 
@@ -24,7 +26,7 @@ Whether building transactional banking engines with ACID compliance, designing d
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                               ENGINEERING COMPETENCY MATRIX                           │
+│                          FRESHMAN ENGINEERING COMPETENCY MATRIX                        │
 ├────────────────────────┬────────────────────────┬──────────────────────────────────────┤
 │ Domain                 │ Technologies           │ Key Engineering Highlights           │
 ├────────────────────────┼────────────────────────┼──────────────────────────────────────┤
@@ -103,6 +105,14 @@ Whether building transactional banking engines with ACID compliance, designing d
 
 ---
 
+### 🎯 Academic & Professional Pursuits
+
+- **Undergraduate Studies:** B.Tech Computer Science & Engineering (Class of 2028), Bennett University.
+- **Actively Preparing For:** **Google STEP Internship**, Open-Source Contributions (GSoC), Hackathons, and Technical Research.
+- **Areas of Exploration:** Distributed Database Systems, Low-Latency Algorithms, and Scalable Backend Architectures.
+
+---
+
 ### 📊 GitHub Activity & Development Velocity
 
 <div align="center">
@@ -119,5 +129,5 @@ Whether building transactional banking engines with ACID compliance, designing d
 <div align="center">
   <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin (Uncle Bob)</i>
   <br/><br/>
-  <b>📬 Open to Software Engineering Opportunities & Collaborations</b>
+  <b>📬 Open to Engineering Internships, Mentorship & Collaborations</b>
 </div>
