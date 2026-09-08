@@ -49,8 +49,8 @@ Rather than treating AI as a black box, I focus on understanding underlying prob
 │ Desktop & Real-time    │ Tkinter, Pygame        │ Event-driven UI, Responsive Canvas,  │
 │                        │                        │ 60 FPS Game Loops, Collision Physics │
 ├────────────────────────┼────────────────────────┼──────────────────────────────────────┤
-│ Cloud & Web Platforms  │ JS, HTML5, CSS3, Vercel│ Responsive UX, Serverless Edge APIs, │
-│                        │                        │ Automated CI/CD Production Builds    │
+│ Algorithm Optimization │ Python Core, Math      │ Asymptotic Analysis O(√N), Euclidean │
+│                        │                        │ GCD, Modular Solvers & Number Theory │
 └────────────────────────┴────────────────────────┴──────────────────────────────────────┘
 ```
 
@@ -60,27 +60,24 @@ Rather than treating AI as a black box, I focus on understanding underlying prob
 
 <div align="center">
 
-#### Programming & Query Languages
+#### Core Languages & Data Formats
 ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/ANSI_SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Data_Store-000000?style=for-the-badge&logo=json&logoColor=white)
 
-#### Frameworks, Engines & Libraries
+#### Frameworks, Engines & Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=scipy&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI_Desktop-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2D_Engine-green?style=for-the-badge&logo=python&logoColor=white)
 
-#### Developer Tools & Cloud Infrastructure
+#### Developer Tools & Workflows
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel_Cloud-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/PowerShell-4E1B94?style=for-the-badge&logo=powershell&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-4E1B94?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
 
@@ -92,7 +89,7 @@ Rather than treating AI as a black box, I focus on understanding underlying prob
 |:---|:---|:---|:---:|
 | 🗄️ **[python-sql-projects](https://github.com/shauryabhatia10/python-sql-projects)** | `Python` `MySQL` `Pandas` `Tkinter` | **Multi-tier enterprise portfolio**: Relational schemas (`LIBRARY`, `BANK`, `STUDENT`), automated Gmail SMTP receipt generation, Pandas CSV data store, and OOP banking engines. | **100% Bytecode Verified**, 13 Modules, Relational Foreign Key Integrity |
 | 🧠 **[python-ai-akinator](https://github.com/shauryabhatia10/python-ai-akinator)** | `Python` `Tkinter` `Decision Tree` | **Expert System AI Game**: Information entropy question selection, Bayesian confidence decay, dynamic Tkinter canvas animations, and interactive learning database. | $O(N \times Q)$ scoring, 30+ Knowledge Base Nodes, Zero external dependencies |
-| 🛍️ **[braj-poshak-website](https://github.com/shauryabhatia10/braj-poshak-website)** | `JavaScript` `HTML/CSS` `Vercel` | **Full-Stack E-Commerce Platform**: Responsive UI, client-side dynamic product routing, and Vercel serverless functions with secured API boundaries. | **Production Live**, 100/100 Lighthouse Responsive Layout |
+| 📊 **[Pandas & SQL Library System](https://github.com/shauryabhatia10/python-sql-projects/tree/main/PANDAS)** | `Python` `Pandas` `MySQL` `CSV` | **Data Persistence & Management**: Transactional records processing, schema constraints, relational book/member tracking, and automated email receipts. | Modular CRUD Architecture, Zero data loss, Dual CSV/SQL Backends |
 | 🎮 **[python-retro-arcade-games](https://github.com/shauryabhatia10/python-retro-arcade-games)** | `Python` `Pygame` | **2D Arcade Game Engine**: 5 classic arcade games (Space Invaders, Commando, Racing, etc.) with real-time collision detection, sound mixing, and state machines. | 60 FPS Delta Loop, Pixel-Perfect Collision detection |
 | 📘 **[python-basic-programs](https://github.com/shauryabhatia10/python-basic-programs)** | `Python 3` `Algorithms` | **Foundational Algorithm Suite**: 24 isolated algorithms covering prime factorization ($O(\sqrt{N})$), Euclidean GCD, Armstrong verification, and dynamic matrix patterns. | **24 Modular Scripts**, Clean asymptotic complexity, PEP8 Compliant |
 
