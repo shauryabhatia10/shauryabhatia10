@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,30&height=220&section=header&text=Shaurya%20Bhatia&fontSize=56&fontAlignY=36&desc=B.Tech%20CSE%20%40%20Bennett%20University%20%7C%20High-Velocity%20Systems%20%26%20AI%20Builder&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,30&height=220&section=header&text=Shaurya%20Bhatia&fontSize=56&fontAlignY=36&desc=B.Sc.%20Artificial%20Intelligence%20%40%20Bennett%20University%20%7C%20Applied%20AI%20%26%20Systems%20Builder&descFontSize=17&descAlignY=62&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
   <p align="center">
-    <a href="https://www.bennett.edu.in/"><img src="https://img.shields.io/badge/Bennett_University-B.Tech_CSE_%2728-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Bennett University"/></a>
+    <a href="https://www.bennett.edu.in/"><img src="https://img.shields.io/badge/Bennett_University-B.Sc._Artificial_Intelligence-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Bennett University"/></a>
     <a href="https://github.com/shauryabhatia10"><img src="https://img.shields.io/badge/First_Year_Velocity-Top_1%25_Builder-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="First Year Velocity"/></a>
-    <a href="https://github.com/shauryabhatia10?tab=repositories"><img src="https://img.shields.io/badge/Code_Quality-100%25_Verified-success?style=for-the-badge&logo=githubactions&logoColor=white" alt="Verified"/></a>
+    <a href="https://github.com/shauryabhatia10?tab=repositories"><img src="https://img.shields.io/badge/Focus-AI_Engines_%26_Data_Systems-purple?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus"/></a>
   </p>
 </div>
 
@@ -14,33 +14,35 @@
 
 ### 👨‍💻 Executive Summary
 
-Hello! I am **Shaurya Bhatia**, a 1st-semester **Computer Science & Engineering undergraduate at Bennett University**. 
+Hello! I am **Shaurya Bhatia**, a 1st-semester undergraduate pursuing **B.Sc. in Artificial Intelligence at Bennett University**.
 
-While progressing through core computer science curriculum, I believe in **high-velocity hands-on engineering**—transforming theoretical algorithms and database concepts into resilient, production-ready software. My focus lies in **relational database architecture (MySQL), data processing engines (Pandas & NumPy), heuristic artificial intelligence, and decoupled software systems**.
+My academic and engineering pursuit is centered on bridging the gap between **theoretical AI foundations** (Information Theory, Decision Trees, Bayesian Inference, Heuristics) and **robust software engineering** (Relational Database Architecture, Data Science Pipelines with Pandas/NumPy, and Event-Driven Applications). 
 
-> *"The best way to master computer science is to build relentlessly from day one."*
+Rather than treating AI as a black box, I focus on understanding underlying probabilistic algorithms and building end-to-end, resilient systems from day one.
+
+> *"True AI mastery comes from understanding foundational algorithms and architecting real systems from scratch."*
 
 ---
 
-### 🏛️ Core Engineering Competencies
+### 🏛️ Core Engineering & AI Competencies
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                          FRESHMAN ENGINEERING COMPETENCY MATRIX                        │
+│                        AI & SYSTEMS ENGINEERING COMPETENCY MATRIX                      │
 ├────────────────────────┬────────────────────────┬──────────────────────────────────────┤
-│ Domain                 │ Technologies           │ Key Engineering Highlights           │
+│ Domain                 │ Technologies           │ Key Engineering & AI Highlights      │
 ├────────────────────────┼────────────────────────┼──────────────────────────────────────┤
-│ Relational Systems     │ MySQL, SQL, PyMySQL    │ Normalized schemas, Foreign Keys,    │
-│                        │                        │ Transaction safety, Automated SMTP   │
-├────────────────────────┼────────────────────────┼──────────────────────────────────────┤
-│ Applied Algorithms     │ Python, NumPy, JSON    │ Decision Tree Entropy, Probabilistic │
-│                        │                        │ Heuristics, Math Solvers (O(√N))     │
-├────────────────────────┼────────────────────────┼──────────────────────────────────────┤
-│ Object-Oriented Design │ Python Core, OOP       │ SOLID principles, Multi-level        │
-│                        │                        │ Inheritance, Decoupled Architecture  │
+│ Applied AI & Heuristics│ Python, NumPy, JSON    │ Decision Tree Entropy, Probabilistic │
+│                        │                        │ Bayesian Scoring, 20-Questions AI    │
 ├────────────────────────┼────────────────────────┼──────────────────────────────────────┤
 │ Data Science Pipelines │ Pandas, NumPy, Plotting│ Vectorized DataFrames, Matrix Math,  │
 │                        │                        │ Multi-Chart Matplotlib Visualizer    │
+├────────────────────────┼────────────────────────┼──────────────────────────────────────┤
+│ Relational Data Systems│ MySQL, SQL, PyMySQL    │ Normalized schemas, Foreign Keys,    │
+│                        │                        │ Transaction safety, Automated SMTP   │
+├────────────────────────┼────────────────────────┼──────────────────────────────────────┤
+│ Object-Oriented Design │ Python Core, OOP       │ SOLID principles, Multi-level        │
+│                        │                        │ Inheritance, Decoupled Architecture  │
 ├────────────────────────┼────────────────────────┼──────────────────────────────────────┤
 │ Desktop & Real-time    │ Tkinter, Pygame        │ Event-driven UI, Responsive Canvas,  │
 │                        │                        │ 60 FPS Game Loops, Collision Physics │
@@ -107,9 +109,9 @@ While progressing through core computer science curriculum, I believe in **high-
 
 ### 🎯 Academic & Professional Pursuits
 
-- **Undergraduate Studies:** B.Tech Computer Science & Engineering (Class of 2028), Bennett University.
-- **Actively Preparing For:** **Google STEP Internship**, Open-Source Contributions (GSoC), Hackathons, and Technical Research.
-- **Areas of Exploration:** Distributed Database Systems, Low-Latency Algorithms, and Scalable Backend Architectures.
+- **Undergraduate Studies:** B.Sc. Artificial Intelligence (Semester 1), Bennett University.
+- **Actively Preparing For:** **Google STEP Internship**, AI & Machine Learning Hackathons, Open-Source Contributions (GSoC), and AI Research.
+- **Areas of Exploration:** Heuristic Search, Neural Network Architectures, Statistical Learning, and Scalable Data Pipelines.
 
 ---
 
@@ -127,7 +129,7 @@ While progressing through core computer science curriculum, I believe in **high-
 ---
 
 <div align="center">
-  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin (Uncle Bob)</i>
+  <i>"True AI mastery comes from understanding foundational algorithms and architecting real systems from scratch."</i>
   <br/><br/>
-  <b>📬 Open to Engineering Internships, Mentorship & Collaborations</b>
+  <b>📬 Open to AI/Software Engineering Internships, Research Mentorship & Collaborations</b>
 </div>
