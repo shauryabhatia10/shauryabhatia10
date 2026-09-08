@@ -134,4 +134,10 @@ Rather than treating AI as a black box, I focus on understanding underlying prob
   <i>"True AI mastery comes from understanding foundational algorithms and architecting real systems from scratch."</i>
   <br/><br/>
   <b>📬 Open to AI/Software Engineering Internships, Research Mentorship & Collaborations</b>
+  <br/><br/>
+  <p>
+    <a href="https://www.instagram.com/shauryaa_bhatia" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="mailto:shauryabhatia155@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 </div>
+
