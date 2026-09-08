@@ -62,6 +62,7 @@ Rather than treating AI as a black box, I focus on understanding underlying prob
 
 #### Core Languages & Data Formats
 ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/ANSI_SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-Data_Store-000000?style=for-the-badge&logo=json&logoColor=white)
@@ -89,6 +90,7 @@ Rather than treating AI as a black box, I focus on understanding underlying prob
 |:---|:---|:---|:---:|
 | 🗄️ **[python-sql-projects](https://github.com/shauryabhatia10/python-sql-projects)** | `Python` `MySQL` `Pandas` `Tkinter` | **Multi-tier enterprise portfolio**: Relational schemas (`LIBRARY`, `BANK`, `STUDENT`), automated Gmail SMTP receipt generation, Pandas CSV data store, and OOP banking engines. | **100% Bytecode Verified**, 13 Modules, Relational Foreign Key Integrity |
 | 🧠 **[python-ai-akinator](https://github.com/shauryabhatia10/python-ai-akinator)** | `Python` `Tkinter` `Decision Tree` | **Expert System AI Game**: Information entropy question selection, Bayesian confidence decay, dynamic Tkinter canvas animations, and interactive learning database. | $O(N \times Q)$ scoring, 30+ Knowledge Base Nodes, Zero external dependencies |
+| ⚙️ **[c-programming-foundations](https://github.com/shauryabhatia10/c-programming-foundations)** | `C (ANSI / C99)` `GCC` | **Foundational Systems & Flow Control**: 22 modular C programs covering arithmetic, switch-case jump tables, for/while loops, and ASCII character classifiers. | **100% GCC MinGW Verified**, 0 Warnings, Clean Source Tree |
 | 📊 **[Pandas & SQL Library System](https://github.com/shauryabhatia10/python-sql-projects/tree/main/PANDAS)** | `Python` `Pandas` `MySQL` `CSV` | **Data Persistence & Management**: Transactional records processing, schema constraints, relational book/member tracking, and automated email receipts. | Modular CRUD Architecture, Zero data loss, Dual CSV/SQL Backends |
 | 🎮 **[python-retro-arcade-games](https://github.com/shauryabhatia10/python-retro-arcade-games)** | `Python` `Pygame` | **2D Arcade Game Engine**: 5 classic arcade games (Space Invaders, Commando, Racing, etc.) with real-time collision detection, sound mixing, and state machines. | 60 FPS Delta Loop, Pixel-Perfect Collision detection |
 | 📘 **[python-basic-programs](https://github.com/shauryabhatia10/python-basic-programs)** | `Python 3` `Algorithms` | **Foundational Algorithm Suite**: 24 isolated algorithms covering prime factorization ($O(\sqrt{N})$), Euclidean GCD, Armstrong verification, and dynamic matrix patterns. | **24 Modular Scripts**, Clean asymptotic complexity, PEP8 Compliant |
