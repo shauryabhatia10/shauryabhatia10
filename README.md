@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,30&height=220&section=header&text=Shaurya%20Bhatia&fontSize=56&fontAlignY=36&desc=B.Sc.%20Artificial%20Intelligence%20%40%20Bennett%20University%20%7C%20Applied%20AI%20%26%20Systems%20Builder&descFontSize=17&descAlignY=62&fontColor=ffffff" width="100%"/>
+  <h1>⚡ Shaurya Bhatia</h1>
+  <p><strong>🎓 B.Sc. Artificial Intelligence @ Bennett University | Applied AI & Systems Builder</strong></p>
 </div>
+
 
 <div align="center">
   <p align="center">
