@@ -1,28 +1,35 @@
 <div align="center">
   <h1>⚡ Shaurya Bhatia</h1>
-  <p><strong>🎓 B.Sc. Artificial Intelligence @ Bennett University | Applied AI & Systems Builder</strong></p>
+  <p><strong>🎓 B.Sc. Artificial Intelligence (Data Science Specialization) @ Bennett University</strong></p>
+  <p><i>Python, Data Science Pipelines (Pandas, NumPy, Matplotlib) & Relational SQL Systems</i></p>
 </div>
 
 
 <div align="center">
   <p align="center">
-    <a href="https://www.bennett.edu.in/"><img src="https://img.shields.io/badge/Bennett_University-B.Sc._Artificial_Intelligence-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Bennett University"/></a>
-    <a href="https://github.com/shauryabhatia10"><img src="https://img.shields.io/badge/First_Year_Velocity-Top_1%25_Builder-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="First Year Velocity"/></a>
-    <a href="https://github.com/shauryabhatia10?tab=repositories"><img src="https://img.shields.io/badge/Focus-AI_Engines_%26_Data_Systems-purple?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus"/></a>
+    <a href="https://www.bennett.edu.in/"><img src="https://img.shields.io/badge/Bennett_University-B.Sc._AI_(Data_Science)-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Bennett University"/></a>
+    <a href="https://github.com/shauryabhatia10"><img src="https://img.shields.io/badge/First_Year-Active_Builder-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="First Year Builder"/></a>
+    <a href="https://github.com/shauryabhatia10?tab=repositories"><img src="https://img.shields.io/badge/Specialization-Data_Science_%26_AI-purple?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus"/></a>
   </p>
 </div>
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👨‍💻 About Me
 
-Hello! I am **Shaurya Bhatia**, a 1st-semester undergraduate pursuing **B.Sc. in Artificial Intelligence at Bennett University**.
+Hi! I am **Shaurya Bhatia**, currently in my 1st semester pursuing **B.Sc. in Artificial Intelligence with a specialization in Data Science** at **Bennett University** (Batch 2026–2029).
 
-My academic and engineering pursuit is centered on bridging the gap between **theoretical AI foundations** (Information Theory, Decision Trees, Bayesian Inference, Heuristics) and **robust software engineering** (Relational Database Architecture, Data Science Pipelines with Pandas/NumPy, and Event-Driven Applications). 
+I enjoy hands-on programming and building practical projects from scratch. My focus is on writing clean, modular Python, exploring data with NumPy and Pandas, designing relational MySQL schemas, and understanding core computer science foundations (Data Structures, OOP, and C Programming).
 
-Rather than treating AI as a black box, I focus on understanding underlying probabilistic algorithms and building end-to-end, resilient systems from day one.
+Rather than just using high-level libraries blindly, I like to understand how things work under the hood—from memory management in dynamic arrays and hash maps to decision trees and mathematical algorithms.
 
-> *"True AI mastery comes from understanding foundational algorithms and architecting real systems from scratch."*
+Currently, I am working on expanding my Data Science foundation (statistical analysis, exploratory data analysis, and predictive modeling) while preparing for competitive opportunities like the **Google STEP Internship**.
+
+---
+
+### 📜 Certifications & Credentials
+
+- 🎓 **Certified Python Developer** — Comprehensive Python Programming & Data Foundations *(Physical Credential)*
 
 ---
 
@@ -132,9 +139,7 @@ Rather than treating AI as a black box, I focus on understanding underlying prob
 ---
 
 <div align="center">
-  <i>"True AI mastery comes from understanding foundational algorithms and architecting real systems from scratch."</i>
-  <br/><br/>
-  <b>📬 Open to AI/Software Engineering Internships, Research Mentorship & Collaborations</b>
+  <b>📬 Always excited to connect for Data Science & Software Engineering Internships, Hackathons & Tech Collaborations</b>
   <br/><br/>
   <p>
     <a href="https://www.linkedin.com/in/shaurya-bhatia-47a64a42b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
