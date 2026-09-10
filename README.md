@@ -29,7 +29,7 @@ Currently, I am working on expanding my Data Science foundation (statistical ana
 
 ### 📜 Certifications & Credentials
 
-- 🎓 **Certified Python Developer** — Comprehensive Python Programming & Data Foundations *(Physical Credential)*
+- 🎓 **[Certified Python Developer (Grade A+)](certificates/python_certificate.png)** — Training in Python Programming, Institute of Technology and Skills *(Certificate No: `ITSMZN2026000019` | Issued July 30, 2026)*
 
 ---
 
